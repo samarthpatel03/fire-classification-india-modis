@@ -17,8 +17,7 @@ Edunet/
 │   ├── modis_2021_India.csv
 │   ├── modis_2022_India.csv
 │   └── modis_2023_India.csv
-├── Notebook/
-│   └── Classification_Of _Fire_Type_in_India_Using_MODIS_Data.ipynb
+├── Classification_Of _Fire_Type_in_India_Using_MODIS_Data.ipynb
 ├── requirements.txt
 └── README.md
 ```
