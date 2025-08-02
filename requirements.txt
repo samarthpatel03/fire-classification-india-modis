@@ -6,3 +6,5 @@ seaborn
 jupyter
 statsmodels
 folium
+imbalanced-learn
+streamlit
