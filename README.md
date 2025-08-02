@@ -20,7 +20,7 @@ Edunet/
 │ ├── modis_2021_India.csv
 │ ├── modis_2022_India.csv
 │ └── modis_2023_India.csv
-├── Classification_Of_Fire_Type_in_India_Using_MODIS_Data.ipynb
+├── fire-classification-india-modis.ipynb
 ├── app.py
 ├── best_fire_detection_model.pkl
 ├── scaler.pkl
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 1. Place the MODIS CSV files in the `Data/` directory.
-2. Open `Classification_Of_Fire_Type_in_India_Using_MODIS_Data.ipynb` in Jupyter Notebook or VS Code.
+2. Open `fire-classification-india-modis.ipynb` in Jupyter Notebook or VS Code.
 3. Run the notebook to load data, analyze trends, and train the classifier.
 4. To run the deployed model as a web app:
 
