@@ -1,31 +1,40 @@
-# Byte-compiled / optimized / DLL files
+# === Python-related ===
 __pycache__/
 *.py[cod]
-*$py.class
+*.ipynb_checkpoints
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Data files (optional, uncomment if you don't want to track data)
-# Data/
-
-# Environment files
-.env
-.venv/
-env/
+# === Virtual Environment ===
 venv/
-ENV/
+env/
+.venv/
 
-# VS Code settings
+# === Model files ===
+*.pkl
+
+# === Data files (if too large) ===
+*.csv
+
+# === Jupyter Notebook Checkpoints ===
+.ipynb_checkpoints/
+
+# === IDE settings ===
 .vscode/
+.idea/
+*.swp
 
-# OS files
+# === OS & Misc ===
 .DS_Store
 Thumbs.db
 
-# Logs
+# === Log files ===
 *.log
 
-#Large files
-*.pkl
+# === Streamlit cache ===
+.streamlit/
+
+# === PPT & media ===
 *.pptx
+*.pdf
+*.mp4
+*.avi
+*.zip
