@@ -27,4 +27,5 @@ Thumbs.db
 *.log
 
 #Large files
-.pkl
+*.pkl
+*.pptx
